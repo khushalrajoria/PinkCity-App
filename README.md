@@ -1,4 +1,4 @@
-# company
+# PinkCity - mouthFreshner delivery app in flutter
 
 A new Flutter project.
 
